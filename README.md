@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👨‍🔧 [지주우] | 빅데이터 & 클라우드 컴퓨팅 엔지니어 꿈나무  
 
-<!--
-**juwoo05/juwoo05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 소개  
+🎓 **강서폴리텍 빅데이터 학과 1학년 재학 중**  
+🛠 **멋진 개발자**  
+🎖 **화이팅**  
+🔥 **빅데이터!!! 가즈아!**  
 
-Here are some ideas to get you started:
+## 🛠 기술 스택 및 전문 분야  
+### 📡 **아직은 없지만...**   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏗 **빅데이터 & NoSQL**  
+📊 빅데이터 처리
+🗃 NoSQL 데이터베이스 
+
+### ⚙️ **백엔드 & 프로그래밍**  
+☕ Java & Spring Boot
+🐍 Python
+
+## 📈 GitHub 활동(연습)  
+![코딩 테스트]https://github.com/juwoo05/myjava
+
+📊 **한이음 프로젝트**  
+🔹 한이음 프로젝트(곁봄 프로젝트)
+
+## 🎯 2025년 목표  
+✅ 꾸준히 열심히 기분좋게
+
+## 🌎 나와 연결하기  
+🔹[Instagram](#)
+## 📧 연락처  
+📩 **이메일:** jijuwoo1@gmail.com  
+📍 **위치:** 고양시, 대한민국  
+
+🚀 *클라우드, AI, 빅데이터의 미래를 함께 함께 공부해 나가봐요!*  
